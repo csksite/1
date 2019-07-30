@@ -7,13 +7,19 @@
 		 url('Kollektif.svg#Kollektif') format('svg');
 }
 
+@font-face {
+    font-family: Kollektif;
+    src: url("Kollektif-Bold.ttf");
+    font-weight: bold;
+}
+
 body {
 	margin:0px;
 	font-family: Kollektif;
 }
 
 #header {
-	background-color: white;
+	background-color: yellow;
 	height: 100vh;
 	overflow: hidden;
     display: flex;
@@ -28,6 +34,7 @@ h1 {
  	line-height: 95%;
  	position: absolute;
     bottom: 450px;
+    font-style: bold;
 }
 
 #bear {
