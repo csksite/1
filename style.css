@@ -19,7 +19,7 @@ body {
 }
 
 #header {
-	background-color: yellow;
+	background-color: #F7D19F;
 	height: 100vh;
 	overflow: hidden;
     display: flex;
