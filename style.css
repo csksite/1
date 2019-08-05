@@ -67,10 +67,11 @@ h1 {
 
 .lab {
 	width: 60%;
-	height: 300px;
+	padding-bottom: 30px;
     border-radius: 30px;
     margin: 60px auto;
     font-family: Muli;
+    padding-right: 10px;
 }
 
 
@@ -96,6 +97,14 @@ p {
 	margin: 0px;
 }
 
-a {
+.grey a {
 	color: white;
+}
+
+.peach a {
+	color: #3D2414;
+}
+
+.buffer {
+	margin-bottom: 15px;
 }
